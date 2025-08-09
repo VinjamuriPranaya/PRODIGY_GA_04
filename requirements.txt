@@ -1,0 +1,6 @@
+pillow
+requests
+ipywidgets
+numpy
+diffusers
+transformers
